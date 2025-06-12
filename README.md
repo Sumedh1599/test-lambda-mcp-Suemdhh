@@ -1,2 +1,1 @@
-# test-lambda-mcp-Suemdhh
-Testing the MCP Lambda function
+This repository was created by the MCP Lambda function.
